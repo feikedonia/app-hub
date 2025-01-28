@@ -1,4 +1,4 @@
-app-title = COSMIC Appsjabloon
+app-title = COSMIC-appsjabloon
 about = Over
 view = Beeld
 welcome = Welkom bij COSMIC! ✨
